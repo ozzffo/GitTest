@@ -23,5 +23,8 @@ public class MyController {
 	// push v    | pull
 	// 원격저장소(Github 서버) 
 	
+	// 수정수정
+	// 수정 추가
+	
 	
 }
